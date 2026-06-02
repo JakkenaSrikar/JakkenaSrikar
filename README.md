@@ -32,5 +32,4 @@ I am an engineering graduate specializing in Artificial Intelligence and Machine
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn:** [Your-LinkedIn-Link-Here]
-* **Email:** [Your-Email-Here]
+* **Email:** jakkenasrikar007@gmail.com
